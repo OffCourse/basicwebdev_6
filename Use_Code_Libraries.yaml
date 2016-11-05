@@ -1,0 +1,9 @@
+curator: charlotte
+goal: Use Code Libraries
+checkpoints:
+  - task: 'Use other People's Code'
+    resource-url: 'https://www.smashingmagazine.com/2011/06/working-with-external-code-libraries/'
+  - task: Discover the Best JS Libraries
+    resource-url: 'http://bestof.js.org/search/library'
+  - task: Include Libaries in Your Code
+    resource-url: 'http://www.javascriptkit.com/javatutors/external.shtml'

@@ -1,0 +1,15 @@
+curator: charlotte
+goal: Build Composable Interfaces with React
+checkpoints:
+  - task: Find out What React Is and Is Not
+    resource-url: 'http://blog.andrewray.me/reactjs-for-stupid-people/'
+  - task: Create a React App
+    resource-url: 'https://github.com/facebookincubator/create-react-app#getting-started'
+  - task: Get Started for Real
+    resource-url: 'http://survivejs.com/react/getting-started/introduction-to-react/'
+  - task: Look at Some Examples
+    resource-url: 'https://react.rocks/'
+  - task: Copy and Learn
+    resource-url: 'http://tutorialzine.com/2014/07/5-practical-examples-for-learning-facebooks-react-framework/'
+  - task: Practice React
+    resource-url: 'https://www.codecademy.com/learn/react-101'

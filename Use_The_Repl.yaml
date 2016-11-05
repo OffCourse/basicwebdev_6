@@ -1,0 +1,7 @@
+curator: charlotte
+goal: Evaluate Your Code in the REPL
+checkpoints:
+  - task: Practice in the REPL
+    resource-url: 'http://www.programmersparadox.com/2008/01/22/your-first-programming-language-needs-a-repl/'
+  - task: Start Using the REPL
+    resource-url: 'http://www.tutorialsteacher.com/nodejs/nodejs-console-repl'

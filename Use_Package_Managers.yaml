@@ -1,0 +1,13 @@
+curator: charlotte
+goal: Keep Your Files Together with Package Managers
+checkpoints:
+  - task: Manage in Packages
+    resource-url: 'http://www.rpm.org/max-rpm/ch-intro-to-rpm.html'
+  - task: Use Node Package Manager (NPM)
+    resource-url: 'https://docs.npmjs.com/getting-started/what-is-npm'
+  - task: Install NPM Through Node
+    resource-url: 'http://blog.npmjs.org/post/85484771375/how-to-install-npm'
+  - task: Get an Overview of NPM Commands
+    resource-url: 'http://browsenpm.org/help'
+  - task: Discover Yarn (Optional)
+    resource-url: 'https://www.sitepoint.com/yarn-vs-npm/'

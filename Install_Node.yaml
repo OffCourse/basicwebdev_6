@@ -1,0 +1,9 @@
+curator: charlotte
+goal: Install Node
+checkpoints:
+  - task: Know a Little Bit about Node
+    resource-url: 'http://blog.modulus.io/absolute-beginners-guide-to-nodejs'
+  - task: Install Node on Mac
+    resource-url: 'https://thenewboston.com/videos.php?cat=355&video=29987'
+  - task: Install Node on Windows
+    resource-url: 'http://blog.teamtreehouse.com/install-node-js-npm-windows'
