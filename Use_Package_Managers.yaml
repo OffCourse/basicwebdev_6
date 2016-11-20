@@ -1,5 +1,5 @@
 curator: charlotte
-goal: Keep Your Files Together with Package Managers
+goal: Use Package Managers
 checkpoints:
   - task: Manage in Packages
     resource-url: 'http://www.rpm.org/max-rpm/ch-intro-to-rpm.html'
