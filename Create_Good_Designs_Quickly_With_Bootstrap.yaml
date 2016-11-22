@@ -1,5 +1,5 @@
 curator: charlotte
-goal: Create Good Designs Quickly with Bootstrap
+goal: Design Good and Quickly with Bootstrap
 checkpoints:
   - task: Discover Bootstrap
     resource-url: 'http://campus.codeschool.com/courses/blasting-off-with-bootstrap/contents'

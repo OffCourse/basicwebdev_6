@@ -1,9 +1,12 @@
 curator: charlotte
-goal: Use Code Libraries
+goal: Make Use of Libraries
 checkpoints:
-  - task: 'Use other People's Code'
-    resource-url: 'https://www.smashingmagazine.com/2011/06/working-with-external-code-libraries/'
+  - task: Use other People\'s Code
+    resource-url: 'https://www.smashingmagazine.com/2011/06/working-with-external-code-libraries'
   - task: Discover the Best JS Libraries
     resource-url: 'http://bestof.js.org/search/library'
-  - task: Include Libaries in Your Code
+  - task: Include Libraries in Your Code
     resource-url: 'http://www.javascriptkit.com/javatutors/external.shtml'
+  - task: Understand Why You Should (Not) Use Libraries
+    resource-url: 'https://www.quora.com/What-does-library-mean-in-the-case-of-programming-languages'
+
