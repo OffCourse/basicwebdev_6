@@ -1,4 +1,3 @@
-curator: charlotte
 goal: Design Good and Quickly with Bootstrap
 checkpoints:
   - task: Discover Bootstrap
@@ -9,7 +8,5 @@ checkpoints:
     resource-url: 'http://getbootstrap.com/examples/grid/'
   - task: Install Bootstrap
     resource-url: 'http://getbootstrap.com/getting-started/#download'
-  - task: Use Flexbox in Bootstrap
-    resource-url: 'https://v4-alpha.getbootstrap.com/getting-started/flexbox/'
   - task: Style a Webpage with Bootstrap
     resource-url: 'http://www.teaching-materials.org/csstools/exercises/exercise_bootstrap_descrip.html'
