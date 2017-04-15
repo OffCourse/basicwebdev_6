@@ -4,11 +4,11 @@ checkpoints:
   - task: Get Familiar with React
     resource-url: 'http://survivejs.com/react/getting-started/introduction-to-react/'
   - task: Create a React App
-    resource-url: 'https://github.com/facebookincubator/create-react-app#getting-started'
+    resource-url: 'https://github.com/facebookincubator/create-react-app#getting-started/'
   - task: Get Started for Real
-    resource-url: 'https://www.codementor.io/reactjs/tutorial/the-reactjs-quick-start-guide'
+    resource-url: 'https://www.codementor.io/reactjs/tutorial/the-reactjs-quick-start-guide/'
   - task: Practice React
-    resource-url: 'https://www.codecademy.com/learn/react-101'
+    resource-url: 'https://www.codecademy.com/learn/react-101/'
   - task: Copy and Learn
     resource-url: 'http://tutorialzine.com/2014/07/5-practical-examples-for-learning-facebooks-react-framework/'
   - task: Look at Some Examples
